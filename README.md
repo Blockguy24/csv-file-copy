@@ -1,5 +1,5 @@
 # CSV File Copy
-This is a script to read a csv file containing file names and copy those files to a different directory.
+This is a small utility written in Python to copy files based on the contents of a CSV file.
 
 ## Usage
 ```
