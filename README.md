@@ -1,4 +1,4 @@
-# CSV File Copy
+# CSV File List Copy
 This is a small utility written in Python to copy files based on the contents of a CSV file.
 
 ## Usage
